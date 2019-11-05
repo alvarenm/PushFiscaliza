@@ -1,2 +1,7 @@
-# PushFiscaliza
-App Feito durante o Hackaton do GDG de Campo Grande em 2018
+# Push
+Apresentação:
+https://drive.google.com/file/d/1SLqvszxZu-hTDySGByWjwQjbTDYeWk6D/view
+
+Link aplicação:
+http://bitly.com/PushFiscaliza
+
